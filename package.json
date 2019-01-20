@@ -1,0 +1,23 @@
+{
+  "name": "react-micro-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangalinov/react-micro-validator.git"
+  },
+  "keywords": [
+    "validating",
+    "validators"
+  ],
+  "author": "mr_catskin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivangalinov/react-micro-validator/issues"
+  },
+  "homepage": "https://github.com/ivangalinov/react-micro-validator#readme"
+}
